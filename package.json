@@ -1,0 +1,21 @@
+{ "name": "nodesource-gpgkey-pmb",
+  "version": "0.140613.1",
+  "description": "NodeSource apt GPG key as used on my mirror.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/nodesource-gpgkey-pmb-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/nodesource-gpgkey-pmb-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/nodesource-gpgkey-pmb-js/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "PROPRIETARY",
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
